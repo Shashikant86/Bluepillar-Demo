@@ -1,0 +1,84 @@
+
+Test: Selected tests
+Start: 2017-04-13 02:34:45 +0000
+End: 2017-04-13 02:35:07 +0000
+Ended: YES
+Passed: YES
+Total: 2
+Fail: 0
+Unexpected: 0
+Time: 22.378000
+Log:
+XCTestOutputBarrierXCTestOutputBarrier
+
+
+Test: BluepillarUITests.xctest
+Start: 2017-04-13 02:34:45 +0000
+End: 2017-04-13 02:35:07 +0000
+Ended: YES
+Passed: YES
+Total: 2
+Fail: 0
+Unexpected: 0
+Time: 22.377000
+Log:
+(null)
+
+Test: OneBluepillarUITests
+Start: 2017-04-13 02:34:45 +0000
+End: 2017-04-13 02:35:00 +0000
+Ended: YES
+Passed: YES
+Total: 1
+Fail: 0
+Unexpected: 0
+Time: 15.009000
+Log:
+(null)
+
+TestClass: OneBluepillarUITests
+testName: testExample
+Time: 15.008000
+Ended: YES
+Passed: YES
+Filename: (null)
+Line number: 0
+Error Message: (null)
+Log:
+XCTestOutputBarrier    t =     0.00s     Start Test at 2017-04-13 03:34:45.342
+    t =     0.00s     Set Up
+    t =     0.01s         Launch test.Bluepillar
+    t =    12.74s             Wait for app to idle
+    t =    14.80s     Tear Down
+
+
+Test: SixBluepillarUITests
+Start: 2017-04-13 02:35:00 +0000
+End: 2017-04-13 02:35:07 +0000
+Ended: YES
+Passed: YES
+Total: 1
+Fail: 0
+Unexpected: 0
+Time: 7.366000
+Log:
+(null)
+
+TestClass: SixBluepillarUITests
+testName: testExample
+Time: 7.365000
+Ended: YES
+Passed: YES
+Filename: (null)
+Line number: 0
+Error Message: (null)
+Log:
+XCTestOutputBarrier    t =     0.00s     Start Test at 2017-04-13 03:35:00.352
+    t =     0.00s     Set Up
+    t =     0.10s         Launch test.Bluepillar
+    t =     0.26s             Terminate test.Bluepillar:17098
+    t =     5.52s             Waiting for accessibility to load
+    t =     5.93s             Wait for app to idle
+    t =     7.16s     Tear Down
+
+

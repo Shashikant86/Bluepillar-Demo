@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Selected tests" tests="2" failures="0" errors="0" time="36.056000">
+  <testsuite tests="2" failures="0" errors="0" time="36.054000" timestamp="2017-04-13T03:33:50GMT+01:00" name="BluepillarUITests.xctest">
+    <testsuite tests="1" failures="0" errors="0" time="20.625000" timestamp="2017-04-13T03:33:50GMT+01:00" name="FiveBluepillarUITests">
+      <testcase classname="FiveBluepillarUITests" name="testExample" time="20.624000">
+        <system-out>
+XCTestOutputBarrier    t =     0.00s     Start Test at 2017-04-13 03:33:50.072
+    t =     0.00s     Set Up
+    t =     0.23s         Launch test.Bluepillar
+    t =    14.87s             Waiting for accessibility to load
+    t =    15.18s             Wait for app to idle
+    t =    20.42s     Tear Down
+        </system-out>
+      </testcase>
+    </testsuite>
+    <testsuite tests="1" failures="0" errors="0" time="15.428000" timestamp="2017-04-13T03:34:10GMT+01:00" name="FourBluepillarUITests">
+      <testcase classname="FourBluepillarUITests" name="testExample" time="15.427000">
+        <system-out>
+XCTestOutputBarrier    t =     0.00s     Start Test at 2017-04-13 03:34:10.697
+    t =     0.00s     Set Up
+    t =     0.10s         Launch test.Bluepillar
+    t =     0.27s             Terminate test.Bluepillar:17066
+    t =    10.58s             Waiting for accessibility to load
+    t =    10.98s             Wait for app to idle
+    t =    15.22s     Tear Down
+        </system-out>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testsuites>
+

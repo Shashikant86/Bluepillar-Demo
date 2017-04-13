@@ -1,0 +1,45 @@
+<testsuites errors="0" failures="0" name="Selected tests" time="92.405" tests="6"><testsuite tests="2" failures="0" errors="0" time="36.054000" timestamp="2017-04-13T03:33:50GMT+01:00" name="BluepillarUITests.xctest"><testsuite tests="1" failures="0" errors="0" time="20.625000" timestamp="2017-04-13T03:33:50GMT+01:00" name="FiveBluepillarUITests"><testcase classname="FiveBluepillarUITests" name="testExample" time="20.624000"><system-out>
+XCTestOutputBarrier    t =     0.00s     Start Test at 2017-04-13 03:33:50.072
+    t =     0.00s     Set Up
+    t =     0.23s         Launch test.Bluepillar
+    t =    14.87s             Waiting for accessibility to load
+    t =    15.18s             Wait for app to idle
+    t =    20.42s     Tear Down
+        </system-out></testcase></testsuite><testsuite tests="1" failures="0" errors="0" time="15.428000" timestamp="2017-04-13T03:34:10GMT+01:00" name="FourBluepillarUITests"><testcase classname="FourBluepillarUITests" name="testExample" time="15.427000"><system-out>
+XCTestOutputBarrier    t =     0.00s     Start Test at 2017-04-13 03:34:10.697
+    t =     0.00s     Set Up
+    t =     0.10s         Launch test.Bluepillar
+    t =     0.27s             Terminate test.Bluepillar:17066
+    t =    10.58s             Waiting for accessibility to load
+    t =    10.98s             Wait for app to idle
+    t =    15.22s     Tear Down
+        </system-out></testcase></testsuite></testsuite><testsuite tests="2" failures="0" errors="0" time="22.377000" timestamp="2017-04-13T03:34:45GMT+01:00" name="BluepillarUITests.xctest"><testsuite tests="1" failures="0" errors="0" time="15.009000" timestamp="2017-04-13T03:34:45GMT+01:00" name="OneBluepillarUITests"><testcase classname="OneBluepillarUITests" name="testExample" time="15.008000"><system-out>
+XCTestOutputBarrier    t =     0.00s     Start Test at 2017-04-13 03:34:45.342
+    t =     0.00s     Set Up
+    t =     0.01s         Launch test.Bluepillar
+    t =    12.74s             Wait for app to idle
+    t =    14.80s     Tear Down
+        </system-out></testcase></testsuite><testsuite tests="1" failures="0" errors="0" time="7.366000" timestamp="2017-04-13T03:35:00GMT+01:00" name="SixBluepillarUITests"><testcase classname="SixBluepillarUITests" name="testExample" time="7.365000"><system-out>
+XCTestOutputBarrier    t =     0.00s     Start Test at 2017-04-13 03:35:00.352
+    t =     0.00s     Set Up
+    t =     0.10s         Launch test.Bluepillar
+    t =     0.26s             Terminate test.Bluepillar:17098
+    t =     5.52s             Waiting for accessibility to load
+    t =     5.93s             Wait for app to idle
+    t =     7.16s     Tear Down
+        </system-out></testcase></testsuite></testsuite><testsuite tests="2" failures="0" errors="0" time="33.970000" timestamp="2017-04-13T03:33:52GMT+01:00" name="BluepillarUITests.xctest"><testsuite tests="1" failures="0" errors="0" time="22.465000" timestamp="2017-04-13T03:33:52GMT+01:00" name="ThreeBluepillarUITests"><testcase classname="ThreeBluepillarUITests" name="testExample" time="22.464000"><system-out>
+XCTestOutputBarrier    t =     0.00s     Start Test at 2017-04-13 03:33:52.174
+    t =     0.00s     Set Up
+    t =     0.01s         Launch test.Bluepillar
+    t =    14.63s             Waiting for accessibility to load
+    t =    15.24s             Wait for app to idle
+    t =    22.26s     Tear Down
+        </system-out></testcase></testsuite><testsuite tests="1" failures="0" errors="0" time="11.503000" timestamp="2017-04-13T03:34:14GMT+01:00" name="TwoBluepillarUITests"><testcase classname="TwoBluepillarUITests" name="testExample" time="11.502000"><system-out>
+XCTestOutputBarrier    t =     0.00s     Start Test at 2017-04-13 03:34:14.640
+    t =     0.00s     Set Up
+    t =     0.10s         Launch test.Bluepillar
+    t =     0.30s             Terminate test.Bluepillar:17068
+    t =     6.63s             Waiting for accessibility to load
+    t =     7.04s             Wait for app to idle
+    t =    11.30s     Tear Down
+        </system-out></testcase></testsuite></testsuite></testsuites>

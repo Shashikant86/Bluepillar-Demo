@@ -1,0 +1,36 @@
+--------------------------------------------------------------------------------
+Tests started: 2017-04-13 02:28:24 +0000
+--------------------------------------------------------------------------------
+DEBUG_FLAG_TOBEREMOVED.
+2017-04-13 03:34:36.095 XCTRunner[17088:10155159] Running tests...
+2017-04-13 03:34:45.128 XCTRunner[17088:10155159] Continuing to run tests in the background with task ID 1
+Test Suite 'Selected tests' started at 2017-04-13 03:34:45.340
+XCTestOutputBarrierTest Suite 'BluepillarUITests.xctest' started at 2017-04-13 03:34:45.341
+XCTestOutputBarrierTest Suite 'OneBluepillarUITests' started at 2017-04-13 03:34:45.342
+XCTestOutputBarrierTest Case '-[BluepillarUITests.OneBluepillarUITests testExample]' started.
+XCTestOutputBarrier    t =     0.00s     Start Test at 2017-04-13 03:34:45.342
+    t =     0.00s     Set Up
+    t =     0.01s         Launch test.Bluepillar
+    t =    12.74s             Wait for app to idle
+    t =    14.80s     Tear Down
+Test Case '-[BluepillarUITests.OneBluepillarUITests testExample]' passed (15.008 seconds).
+XCTestOutputBarrierTest Suite 'OneBluepillarUITests' passed at 2017-04-13 03:35:00.350.
+	 Executed 1 test, with 0 failures (0 unexpected) in 15.008 (15.009) seconds
+XCTestOutputBarrierTest Suite 'SixBluepillarUITests' started at 2017-04-13 03:35:00.351
+XCTestOutputBarrierTest Case '-[BluepillarUITests.SixBluepillarUITests testExample]' started.
+XCTestOutputBarrier    t =     0.00s     Start Test at 2017-04-13 03:35:00.352
+    t =     0.00s     Set Up
+    t =     0.10s         Launch test.Bluepillar
+    t =     0.26s             Terminate test.Bluepillar:17098
+    t =     5.52s             Waiting for accessibility to load
+    t =     5.93s             Wait for app to idle
+    t =     7.16s     Tear Down
+Test Case '-[BluepillarUITests.SixBluepillarUITests testExample]' passed (7.365 seconds).
+XCTestOutputBarrierTest Suite 'SixBluepillarUITests' passed at 2017-04-13 03:35:07.717.
+	 Executed 1 test, with 0 failures (0 unexpected) in 7.365 (7.366) seconds
+XCTestOutputBarrierTest Suite 'BluepillarUITests.xctest' passed at 2017-04-13 03:35:07.718.
+	 Executed 2 tests, with 0 failures (0 unexpected) in 22.373 (22.377) seconds
+XCTestOutputBarrierTest Suite 'Selected tests' passed at 2017-04-13 03:35:07.718.
+	 Executed 2 tests, with 0 failures (0 unexpected) in 22.373 (22.378) seconds
+XCTestOutputBarrierXCTestOutputBarrier
+BP_APP_PROC_ENDED
