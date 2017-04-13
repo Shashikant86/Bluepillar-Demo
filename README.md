@@ -2,7 +2,7 @@
 
 This is example of how fastlane-plugin-bluepillar works
 
-Just Clone the repo and run
+Just Clone the repo, replace derived data path in the `Fastfile`  and run
 
          $ bundle install
          $ bundle install fastlane test
