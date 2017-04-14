@@ -1,1 +1,1 @@
-gem 'fastlane-plugin-bluepillar', path: '../../fastlane-plugin-bluepillar'
+gem 'fastlane-plugin-bluepillar'
